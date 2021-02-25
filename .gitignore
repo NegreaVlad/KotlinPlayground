@@ -1,0 +1,11 @@
+# OS X files
+.DS_Store
+
+# Ignore IntelliJ-based project files
+*.iml
+.idea/*
+
+# Android Studio files
+local.properties
+.gradle
+build/
